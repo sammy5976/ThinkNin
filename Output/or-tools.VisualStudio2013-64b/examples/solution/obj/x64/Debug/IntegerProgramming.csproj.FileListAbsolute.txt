@@ -1,0 +1,7 @@
+D:\Projects\GIT\or-tools\Output\or-tools.VisualStudio2013-64b\examples\solution\bin\x64\Debug\IntegerProgramming.exe
+D:\Projects\GIT\or-tools\Output\or-tools.VisualStudio2013-64b\examples\solution\bin\x64\Debug\IntegerProgramming.pdb
+D:\Projects\GIT\or-tools\Output\or-tools.VisualStudio2013-64b\examples\solution\bin\x64\Debug\Google.OrTools.dll
+D:\Projects\GIT\or-tools\Output\or-tools.VisualStudio2013-64b\examples\solution\bin\x64\Debug\Google.Protobuf.dll
+D:\Projects\GIT\or-tools\Output\or-tools.VisualStudio2013-64b\examples\solution\obj\x64\Debug\IntegerProgramming.csprojResolveAssemblyReference.cache
+D:\Projects\GIT\or-tools\Output\or-tools.VisualStudio2013-64b\examples\solution\obj\x64\Debug\IntegerProgramming.exe
+D:\Projects\GIT\or-tools\Output\or-tools.VisualStudio2013-64b\examples\solution\obj\x64\Debug\IntegerProgramming.pdb
