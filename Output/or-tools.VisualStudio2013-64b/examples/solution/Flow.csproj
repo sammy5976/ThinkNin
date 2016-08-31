@@ -63,6 +63,10 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\bin\Google.Protobuf.dll</HintPath>
     </Reference>
+    <Reference Include="MathNet.Numerics, Version=3.13.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MathNet.Numerics.3.13.0\lib\net40\MathNet.Numerics.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -72,11 +76,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Callbacks\CreateDistanceCallback.cs" />
-    <Compile Include="Objects\Record.cs" />
-    <Compile Include="Objects\RoutingData.cs" />
+    <Compile Include="DemandCallback.cs" />
+    <Compile Include="DistanceCallback.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Properties\cstsp.cs" />
+    <Compile Include="Record.cs" />
+    <Compile Include="RoutingData.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

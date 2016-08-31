@@ -1,0 +1,14 @@
+D:\Projects\GIT\or-tools\Output\or-tools.VisualStudio2013-64b\examples\TSP\bin\Debug\TSP.exe.config
+D:\Projects\GIT\or-tools\Output\or-tools.VisualStudio2013-64b\examples\TSP\bin\Debug\Sample.csv
+D:\Projects\GIT\or-tools\Output\or-tools.VisualStudio2013-64b\examples\TSP\bin\Debug\TSP.exe
+D:\Projects\GIT\or-tools\Output\or-tools.VisualStudio2013-64b\examples\TSP\bin\Debug\TSP.pdb
+D:\Projects\GIT\or-tools\Output\or-tools.VisualStudio2013-64b\examples\TSP\bin\Debug\CsvHelper.dll
+D:\Projects\GIT\or-tools\Output\or-tools.VisualStudio2013-64b\examples\TSP\bin\Debug\Google.OrTools.dll
+D:\Projects\GIT\or-tools\Output\or-tools.VisualStudio2013-64b\examples\TSP\bin\Debug\Google.Protobuf.dll
+D:\Projects\GIT\or-tools\Output\or-tools.VisualStudio2013-64b\examples\TSP\bin\Debug\MathNet.Numerics.dll
+D:\Projects\GIT\or-tools\Output\or-tools.VisualStudio2013-64b\examples\TSP\bin\Debug\CsvHelper.pdb
+D:\Projects\GIT\or-tools\Output\or-tools.VisualStudio2013-64b\examples\TSP\bin\Debug\CsvHelper.xml
+D:\Projects\GIT\or-tools\Output\or-tools.VisualStudio2013-64b\examples\TSP\bin\Debug\MathNet.Numerics.xml
+D:\Projects\GIT\or-tools\Output\or-tools.VisualStudio2013-64b\examples\TSP\obj\Debug\TSP.csprojResolveAssemblyReference.cache
+D:\Projects\GIT\or-tools\Output\or-tools.VisualStudio2013-64b\examples\TSP\obj\Debug\TSP.exe
+D:\Projects\GIT\or-tools\Output\or-tools.VisualStudio2013-64b\examples\TSP\obj\Debug\TSP.pdb

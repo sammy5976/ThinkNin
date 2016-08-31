@@ -10,15 +10,15 @@ namespace Flow.Objects
         public RoutingData ()
         {
             Records = new List<Record>();
-            Locations = new List<Tuple<int, int>>();
-            Demand = new List<int>();
+            Locations = new List<Tuple<double, double>>();
+            Demand = new List<double>();
         }
 
         public IList<Record> Records { get; set; }
 
-        public List<Tuple<int, int>> Locations { get; set; }
+        public List<Tuple<double, double>> Locations { get; set; }
 
-        public List<int> Demand { get; set; } 
+        public List<double> Demand { get; set; } 
 
         public int Vehicles { get; set; }
 
